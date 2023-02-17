@@ -59,10 +59,10 @@ function App() {
             );
           })}
         </div>
-        <button type="button" className="btn">
-          MORE INFO
-        </button>
       </div>
+      <button type="button" className="btn">
+        MORE INFO
+      </button>
     </section>
   );
 }
